@@ -176,5 +176,7 @@ body, html, #app {
   padding: 0;
   width: 100%;
   height: 100%;
+  background: linear-gradient(-90deg,#9c9a9a 10%,#4b4747 90%);
+  cursor: url(https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/default.cur),auto!important;
 }
 </style>
